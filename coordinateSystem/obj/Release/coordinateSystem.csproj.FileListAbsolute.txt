@@ -1,0 +1,4 @@
+C:\Users\Amir\Desktop\coordinateSystem111\coordinateSystem\obj\Release\coordinateSystem.Form1.resources
+C:\Users\Amir\Desktop\coordinateSystem111\coordinateSystem\obj\Release\coordinateSystem.Properties.Resources.resources
+C:\Users\Amir\Desktop\coordinateSystem111\coordinateSystem\obj\Release\coordinateSystem.csproj.GenerateResource.Cache
+C:\Users\Amir\Desktop\coordinateSystem111\coordinateSystem\obj\Release\coordinateSystem.csproj.CoreCompileInputs.cache
